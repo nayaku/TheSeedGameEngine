@@ -1,3 +1,3 @@
 # The Seed Game Engine
 
-一款2D的快平台游戏引擎。
+一款2D的跨平台游戏引擎。

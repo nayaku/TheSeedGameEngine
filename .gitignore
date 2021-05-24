@@ -21,6 +21,7 @@
 *.mod
 *.smod
 
+CMakeLists.txt
 # Compiled Static libraries
 *.lai
 *.la
